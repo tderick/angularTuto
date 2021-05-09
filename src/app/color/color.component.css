@@ -1,0 +1,12 @@
+.color
+{
+  width: 200px;
+  height: 200px;
+  border: 2px solid cyan;
+}
+
+input
+{
+  height: 25px;
+  border: cyan dashed 2px;
+}
