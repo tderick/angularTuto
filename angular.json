@@ -28,9 +28,28 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/deskapp-master/vendors/images/apple-touch-icon.png",
+              "src/assets/deskapp-master/vendors/images/favicon-32x32.png",
+              "src/assets/deskapp-master/vendors/images/favicon-16x16.png",
+              "src/assets/deskapp-master/vendors/styles/core.css",
+              "src/assets/deskapp-master/vendors/styles/icon-font.min.css",
+              "src/assets/deskapp-master/src/plugins/datatables/css/dataTables.bootstrap4.min.css",
+              "src/assets/deskapp-master/src/plugins/datatables/css/responsive.bootstrap4.min.css",
+              "src/assets/deskapp-master/vendors/styles/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/deskapp-master/vendors/scripts/core.js",
+              "src/assets/deskapp-master/vendors/scripts/script.min.js",
+              "src/assets/deskapp-master/vendors/scripts/process.js",
+              "src/assets/deskapp-master/vendors/scripts/layout-settings.js",
+              "src/assets/deskapp-master/src/plugins/apexcharts/apexcharts.min.js",
+              "src/assets/deskapp-master/src/plugins/datatables/js/jquery.dataTables.min.js",
+              "src/assets/deskapp-master/src/plugins/datatables/js/dataTables.bootstrap4.min.js",
+              "src/assets/deskapp-master/src/plugins/datatables/js/dataTables.responsive.min.js",
+              "src/assets/deskapp-master/src/plugins/datatables/js/responsive.bootstrap4.min.js",
+              "src/assets/deskapp-master/vendors/scripts/dashboard.js"
+            ]
           },
           "configurations": {
             "production": {
